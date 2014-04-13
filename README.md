@@ -1,13 +1,6 @@
 yhfWeibo
 ========
 
-<style>
-	img {
-		height: 60%;
-		width: 60%;
-	}
-</style>
-
 基于Flask的微博系统，实现了基本的微博功能。
 
 数据库采用SQLite3，用户头像采用[http://www.gravatar.com](http://en.gravatar.com/site/implement/hash/)提供的用邮箱的哈希值生成的url。
